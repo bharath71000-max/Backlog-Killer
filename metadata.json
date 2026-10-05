@@ -1,0 +1,6 @@
+{
+  "name": "Backlog Killer",
+  "description": "AI student productivity engine that scans syllabi and test scorecards to prioritize high-ROI study battle plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
